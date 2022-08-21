@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cem313
-- 👀 I’m interested in music, hiking, learning
-- 🌱 I’m currently learning a lovely jimi hendrix song, python
+- 👀 I’m interested in music, hiking, learning different things
 - 💞️ I’m looking to collaborate on different projects with shared interests
 - 📫 How to reach me ... tbd
 
